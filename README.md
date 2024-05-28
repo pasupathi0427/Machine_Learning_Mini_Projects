@@ -20,17 +20,25 @@ Welcome to the Machine Learning Hands-On Projects repository! This repository co
   
 ## Quick Start Guide: Running the Project
 To run the project, follow these steps:
+### Running Locally
+- Clone this repository to your local machine.
+- Navigate to the project folder you're interested in.
+- Open the Jupyter Notebook file (.ipynb) using Jupyter Notebook.
+- Follow the instructions provided within the notebook to run the project.
+- Ensure that the necessary libraries are installed by running pip install -r requirements.txt in your terminal.
+
+### Running in Google Colab
 ### 1. Clone the Repository: 
-- git clone https://github.com/pasupathi0427/AdsClassification_SocialNetwork.git
+- git clone https://github.com/pasupathi0427/Machine_Learning_Mini_Projects.git
 
 ### 2. Add the Repository to Google Drive:
 - Upload the cloned repository folder to your Google Drive.
 
-### 3. Open the AdsClassifier.ipynb File in Google Colab:
+### 3. Open the  File in Google Colab:
 - Navigate to [Google Colab](colab.research.google.com).
 - Click on `File` > `Open Notebook` > `Upload`.
-- Select the `AdsClassifier.ipynb` file from the cloned repository in your Google Drive and open it.
+- Select the (.ipynb) file from the cloned repository in your Google Drive and open it.
   
 ## Acknowledgments
-Dataset sources: Kaggle 
-Inspiration: Inspired from Youtube resources .
+- Dataset sources: Kaggle 
+- Inspiration: Inspired from Youtube resources .
