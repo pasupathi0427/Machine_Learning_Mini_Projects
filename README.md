@@ -25,7 +25,7 @@ To run the project, follow these steps:
 - Navigate to the project folder you're interested in.
 - Open the Jupyter Notebook file (.ipynb) using Jupyter Notebook.
 - Follow the instructions provided within the notebook to run the project.
-- Ensure that the necessary libraries are installed by running pip install -r requirements.txt in your terminal.
+- Ensure that the necessary libraries are installed by running `pip install -r requirements.txt` in your terminal.
 
 ### Running in Google Colab
 ### 1. Clone the Repository: 
