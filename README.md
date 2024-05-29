@@ -8,6 +8,9 @@ Welcome to the Machine Learning Hands-On Projects repository! This repository co
 - Project 4: Loan Status predicition
 - Project 5: Sonar prediction
 - Project 6: Wine Quality predicition
+- Project 7: Heart Diease predicition
+- Project 8: Credit card Fraud Detection
+- Project 9: Medical Insurance Cost predicition
   
 ## Prerequisites
 - Python 3
