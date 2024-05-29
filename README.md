@@ -11,6 +11,7 @@ Welcome to the Machine Learning Hands-On Projects repository! This repository co
 - Project 7: Heart Diease predicition
 - Project 8: Credit card Fraud Detection
 - Project 9: Medical Insurance Cost predicition
+- Project 10: Big Mart Sale prediction
   
 ## Prerequisites
 - Python 3
