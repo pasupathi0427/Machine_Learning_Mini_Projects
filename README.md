@@ -12,6 +12,7 @@ Welcome to the Machine Learning Hands-On Projects repository! This repository co
 - Project 8: Credit card Fraud Detection
 - Project 9: Medical Insurance Cost predicition
 - Project 10: Big Mart Sale prediction
+- Project 11:Movie Recommendation System
   
 ## Prerequisites
 - Python 3
